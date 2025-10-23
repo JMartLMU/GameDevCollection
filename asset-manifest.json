@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/JmartLMU.github.io/static/css/main.a6b017eb.css",
+    "main.js": "/JmartLMU.github.io/static/js/main.576f2f2d.js",
+    "static/js/453.b9bd4ec1.chunk.js": "/JmartLMU.github.io/static/js/453.b9bd4ec1.chunk.js",
+    "static/media/revicons.eot": "/JmartLMU.github.io/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/JmartLMU.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/JmartLMU.github.io/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/JmartLMU.github.io/index.html",
+    "main.a6b017eb.css.map": "/JmartLMU.github.io/static/css/main.a6b017eb.css.map",
+    "main.576f2f2d.js.map": "/JmartLMU.github.io/static/js/main.576f2f2d.js.map",
+    "453.b9bd4ec1.chunk.js.map": "/JmartLMU.github.io/static/js/453.b9bd4ec1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6b017eb.css",
+    "static/js/main.576f2f2d.js"
+  ]
+}
