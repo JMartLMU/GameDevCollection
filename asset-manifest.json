@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba730448.css",
-    "main.js": "/static/js/main.ccc70c5f.js",
-    "static/js/453.b9bd4ec1.chunk.js": "/static/js/453.b9bd4ec1.chunk.js",
-    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/index.html",
-    "main.ba730448.css.map": "/static/css/main.ba730448.css.map",
-    "main.ccc70c5f.js.map": "/static/js/main.ccc70c5f.js.map",
-    "453.b9bd4ec1.chunk.js.map": "/static/js/453.b9bd4ec1.chunk.js.map"
+    "main.css": "/GameDevCollection/static/css/main.651916c3.css",
+    "main.js": "/GameDevCollection/static/js/main.5cf927c9.js",
+    "static/js/453.b9bd4ec1.chunk.js": "/GameDevCollection/static/js/453.b9bd4ec1.chunk.js",
+    "static/media/revicons.eot": "/GameDevCollection/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/GameDevCollection/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/GameDevCollection/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/GameDevCollection/index.html",
+    "main.651916c3.css.map": "/GameDevCollection/static/css/main.651916c3.css.map",
+    "main.5cf927c9.js.map": "/GameDevCollection/static/js/main.5cf927c9.js.map",
+    "453.b9bd4ec1.chunk.js.map": "/GameDevCollection/static/js/453.b9bd4ec1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba730448.css",
-    "static/js/main.ccc70c5f.js"
+    "static/css/main.651916c3.css",
+    "static/js/main.5cf927c9.js"
   ]
 }
